@@ -5,7 +5,7 @@ android {
         Asthma {
             keyAlias 'TonyMartinez'
             keyPassword 'androidKeyDev'
-            storeFile file('D:/keyAsthmaCare/AsthmaKey.jks')
+            storeFile file('C:/keyAsthmaCare/AsthmaKey.jks')
             storePassword 'androidTonyDev'
         }
     }
@@ -13,7 +13,7 @@ android {
     buildToolsVersion "23.0.1"
     defaultConfig {
         applicationId "com.asthmacare.asus.asthma"
-        minSdkVersion 17
+        minSdkVersion 21
         targetSdkVersion 15
         versionCode 1
         versionName "1.0"

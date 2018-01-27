@@ -10,4 +10,10 @@
     <color name="colorRed">#e51c23</color>
     <color name="colorGreen">#0a7e07</color>
     <color name="colorYellow">#ffd740</color>
+    <color name="statusBar">#BA2D65</color>
+    <color name="appBar">#F06292</color>
+    <color name="background">#FAFAFA</color>
+    <color name="title">#FFFFFF</color>
+    <color name="subtitle">#212121</color>
+    <color name="name">#8A8A8A</color>
 </resources>
